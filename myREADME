@@ -1,0 +1,2 @@
+function caffe_gpu_memcpy() in src/caffe/util/math_functions.cu transfers data using cudaMemcpy().
+

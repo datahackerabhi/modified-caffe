@@ -1,0 +1,95 @@
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Compute Starting
+Data Transfer CPU -> GPU
+Compute Ending
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Compute Starting
+Data Transfer CPU -> GPU
+Compute Ending
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Compute Starting
+Data Transfer GPU -> CPU
+Data Transfer CPU -> GPU
+Data Transfer GPU -> CPU
+Compute Ending
+Compute Starting
+Data Transfer CPU -> GPU
+Compute Ending
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Compute Starting
+Data Transfer CPU -> GPU
+Compute Ending
+Compute Starting
+Data Transfer CPU -> GPU
+Compute Ending
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Compute Starting
+Data Transfer GPU -> CPU
+Data Transfer CPU -> GPU
+Data Transfer GPU -> CPU
+Compute Ending
+Compute Starting
+Data Transfer CPU -> GPU
+Compute Ending
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Compute Starting
+Data Transfer GPU -> CPU
+Data Transfer CPU -> GPU
+Data Transfer GPU -> CPU
+Compute Ending
+Compute Starting
+Data Transfer CPU -> GPU
+Compute Ending
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer CPU -> GPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
+Data Transfer GPU -> CPU
